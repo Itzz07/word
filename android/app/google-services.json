@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040858746613",
+    "project_id": "bliss-8ded3",
+    "storage_bucket": "bliss-8ded3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040858746613:android:e2749eb6253f330cdebfbc",
+        "android_client_info": {
+          "package_name": "com.example.word"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040858746613-qc9b7m3uaheil5ai33l6apr1cugsocg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9EOut1l_m4qkWwidS5MHLsY_Mq-kWJmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040858746613-qc9b7m3uaheil5ai33l6apr1cugsocg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
